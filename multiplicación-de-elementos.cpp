@@ -11,7 +11,7 @@ int main() {
     std::cout << "Indice " <<i<<" :";
     std::cin >> a1[i];
   }
-  std::cout << "\n--Ingrese los valores delSEGUNDO arreglo--" << '\n';
+  std::cout << "\n--Ingrese los valores del SEGUNDO arreglo--" << '\n';
   for (int e=0; e < MAX; e++){
     std::cout << "Indice " <<e<<" :";
     std::cin >> a2[e];
